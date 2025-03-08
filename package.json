@@ -75,7 +75,7 @@
     "flow-bin": "0.155.0",
     "flow-remove-types": "2.232.0",
     "flow-typed": "^3.8.0",
-    "husky": "^8.0.1",
+    "husky": "^9.0.0",
     "jsdom": "^20.0.3",
     "jsonwebtoken": "^9.0.2",
     "lint-staged": "^13.0.3",
